@@ -181,7 +181,7 @@ int main(int argc, char** argv) {
                         {cout<<"Too high, try again."<<endl<<endl;}
                     if (guess<rN)
                         {cout<<"Too low, try again."<<endl<<endl;}    
-                }while (!(guess==rN));  
+                }while (!(guess==rN));
                 //Output Located Here
                 cout<<"Congrats you got it right! It was "<<rN<<"."<<endl<<endl;
             break;}
