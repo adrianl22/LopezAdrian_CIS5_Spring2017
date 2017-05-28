@@ -24,7 +24,7 @@ CLEAN_SUBPROJECTS=${CLEAN_SUBPROJECTS_${SUBPROJECTS}}
 
 
 # Project Name
-PROJECTNAME=Best_the_Beast_V2
+PROJECTNAME=Best_the_Beast_V2.1
 
 # Active Configuration
 DEFAULTCONF=Debug
